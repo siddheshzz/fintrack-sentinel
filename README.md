@@ -1,7 +1,7 @@
 # FinTrack-Sentinel 🛡️
 Real-time Fraud & Anomaly Detection System
 
-FinTrack-Sentinel is a high-scale microservices ecosystem built to ingest, validate, and monitor financial transactions in real-time. It demonstrates the transition from a traditional monolithic "Bank App" to an Event-Driven Architecture.
+FinTrack-Sentinel is a learning project for high-scale microservices ecosystem built to ingest, validate, and monitor financial transactions in real-time. It demonstrates the transition from a traditional monolithic "Bank App" to an Event-Driven Architecture.
 
 ### The Architecture
 The system is split into three decoupled services:
