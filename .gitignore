@@ -1,0 +1,75 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+
+# ======================
+# Python bytecode
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ======================
+# Virtual environments
+# ======================
+.venv/
+venv/
+ENV/
+env/
+
+# ======================
+# uv
+# ======================
+.uv/
+uv.lock
+
+# ======================
+# Build / packaging
+# ======================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ======================
+# Test / coverage
+# ======================
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+
+# ======================
+# Logs
+# ======================
+*.log
+
+# ======================
+# IDE / editors
+# ======================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ======================
+# OS junk
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# Environment variables
+# ======================
+.env
+.env.*
